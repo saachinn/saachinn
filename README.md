@@ -1,8 +1,10 @@
 # 💫 About Me:
+
 Hi there! I’m an Automation driving the shift toward AI-powered QA. 🤖✨
-🔭 Current Focus: Engineering intelligent, AI-integrated automation test suites.
-⚡ Learning: Leveling up my skills in DevOps pipelines to build seamless CI/CD test workflows.
-🤝 Collaboration: Seeking partners to collaborate on building next-gen AI agents and robust automation frameworks.
+
+🔭 Current Focus: Engineering intelligent, AI-integrated automation test suites.<br>
+⚡ Learning: Leveling up my skills in DevOps pipelines to build seamless CI/CD test workflows.<br>
+🤝 Collaboration: Seeking partners to collaborate on building next-gen AI agents and robust automation frameworks.<br>
 💬 Ask me about: Testing, Java, and Selenium—I love breaking down complex scripting problems. <br>
 
 
