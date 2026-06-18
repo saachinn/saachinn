@@ -23,7 +23,7 @@
 
 ---
 
-## Projects (testing projects first)
+## Projects (Testing projects )
 
 ### Project 1 — API Testing: CRUD Operations
 - Repo: [API-Testing-crud-operations](https://github.com/saachinn/API-Testing-crud-operations)  
